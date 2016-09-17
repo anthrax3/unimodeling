@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="info.sarihh.unimodeling.midgraph.MGraph">
+  <void property="edges">
+   <void method="add">
+    <object class="info.sarihh.unimodeling.midgraph.MEdge" id="MEdge0">
+     <void property="connections">
+      <void method="add">
+       <object class="info.sarihh.unimodeling.midgraph.MConnection">
+        <void property="id">
+         <int>0</int>
+        </void>
+        <void property="name">
+         <string>CD|CC</string>
+        </void>
+        <void property="plusSide">
+         <object class="info.sarihh.unimodeling.midgraph.MVertex" id="MVertex0">
+          <void property="delimCoordinates">
+           <string>683_144_360_162</string>
+          </void>
+          <void property="edges">
+           <void method="put">
+            <object class="info.sarihh.unimodeling.midgraph.MEdge" id="MEdge1">
+             <void property="connections">
+              <void method="add">
+               <object class="info.sarihh.unimodeling.midgraph.MConnection">
+                <void property="id">
+                 <int>1</int>
+                </void>
+                <void property="name">
+                 <string>CC|MC</string>
+                </void>
+                <void property="plusSide">
+                 <object class="info.sarihh.unimodeling.midgraph.MVertex" id="MVertex1">
+                  <void property="delimCoordinates">
+                   <string>340_146_358_355</string>
+                  </void>
+                  <void property="edges">
+                   <void method="put">
+                    <object class="info.sarihh.unimodeling.midgraph.MEdge" id="MEdge2">
+                     <void property="connections">
+                      <void method="add">
+                       <object class="info.sarihh.unimodeling.midgraph.MConnection">
+                        <void property="id">
+                         <int>2</int>
+                        </void>
+                        <void property="name">
+                         <string>RB|MC</string>
+                        </void>
+                        <void property="plusSide">
+                         <object class="info.sarihh.unimodeling.midgraph.MVertex" id="MVertex2">
+                          <void property="delimCoordinates">
+                           <string>360_115_340_140</string>
+                          </void>
+                          <void property="edges">
+                           <void method="put">
+                            <object idref="MEdge2"/>
+                            <int>1</int>
+                           </void>
+                          </void>
+                          <void property="graphCoordinates">
+                           <string>360_115_340_140</string>
+                          </void>
+                          <void property="id">
+                           <int>3</int>
+                          </void>
+                          <void property="name">
+                           <string>RB</string>
+                          </void>
+                          <void property="ogID">
+                           <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId0">
+                            <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                             <string>clusterId</string>
+                             <void method="set">
+                              <object idref="ORecordId0"/>
+                              <int>6</int>
+                             </void>
+                            </void>
+                            <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                             <string>clusterPosition</string>
+                             <void method="set">
+                              <object idref="ORecordId0"/>
+                              <long>2</long>
+                             </void>
+                            </void>
+                           </object>
+                          </void>
+                          <void property="rfidCoordinates">
+                           <string>360_115_340_140</string>
+                          </void>
+                         </object>
+                        </void>
+                       </object>
+                      </void>
+                     </void>
+                     <void property="id">
+                      <int>2</int>
+                     </void>
+                     <void property="ogID">
+                      <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId1">
+                       <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                        <string>clusterId</string>
+                        <void method="set">
+                         <object idref="ORecordId1"/>
+                         <int>7</int>
+                        </void>
+                       </void>
+                       <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                        <string>clusterPosition</string>
+                        <void method="set">
+                         <object idref="ORecordId1"/>
+                         <long>5</long>
+                        </void>
+                       </void>
+                      </object>
+                     </void>
+                     <void property="vertices">
+                      <void method="put">
+                       <int>1</int>
+                       <object idref="MVertex2"/>
+                      </void>
+                      <void method="put">
+                       <int>2</int>
+                       <object idref="MVertex1"/>
+                      </void>
+                     </void>
+                    </object>
+                    <int>2</int>
+                   </void>
+                   <void method="put">
+                    <object idref="MEdge1"/>
+                    <int>2</int>
+                   </void>
+                   <void method="put">
+                    <object class="info.sarihh.unimodeling.midgraph.MEdge" id="MEdge3">
+                     <void property="connections">
+                      <void method="add">
+                       <object class="info.sarihh.unimodeling.midgraph.MConnection">
+                        <void property="id">
+                         <int>3</int>
+                        </void>
+                        <void property="name">
+                         <string>MC|SMC</string>
+                        </void>
+                        <void property="plusSide">
+                         <object idref="MVertex1"/>
+                        </void>
+                       </object>
+                      </void>
+                     </void>
+                     <void property="id">
+                      <int>3</int>
+                     </void>
+                     <void property="ogID">
+                      <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId2">
+                       <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                        <string>clusterId</string>
+                        <void method="set">
+                         <object idref="ORecordId2"/>
+                         <int>7</int>
+                        </void>
+                       </void>
+                       <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                        <string>clusterPosition</string>
+                        <void method="set">
+                         <object idref="ORecordId2"/>
+                         <long>2</long>
+                        </void>
+                       </void>
+                      </object>
+                     </void>
+                     <void property="vertices">
+                      <void method="put">
+                       <int>1</int>
+                       <object idref="MVertex1"/>
+                      </void>
+                      <void method="put">
+                       <int>2</int>
+                       <object class="info.sarihh.unimodeling.midgraph.MVertex" id="MVertex3">
+                        <void property="coverageWeights">
+                         <void method="put">
+                          <string>r2</string>
+                          <double>0.5</double>
+                         </void>
+                         <void method="put">
+                          <string>r3</string>
+                          <double>0.5</double>
+                         </void>
+                        </void>
+                        <void property="delimCoordinates">
+                         <string>357_359_142_392</string>
+                        </void>
+                        <void property="edges">
+                         <void method="put">
+                          <object class="info.sarihh.unimodeling.midgraph.MEdge" id="MEdge4">
+                           <void property="connections">
+                            <void method="add">
+                             <object class="info.sarihh.unimodeling.midgraph.MConnection">
+                              <void property="coverageWeights">
+                               <void method="put">
+                                <string>r2</string>
+                                <double>-2.5</double>
+                               </void>
+                               <void method="put">
+                                <string>r3</string>
+                                <double>-0.1875</double>
+                               </void>
+                              </void>
+                              <void property="id">
+                               <int>4</int>
+                              </void>
+                              <void property="name">
+                               <string>SMC|TTS</string>
+                              </void>
+                              <void property="plusSide">
+                               <object class="info.sarihh.unimodeling.midgraph.MVertex" id="MVertex4">
+                                <void property="coverageWeights">
+                                 <void method="put">
+                                  <string>r2</string>
+                                  <double>0.5</double>
+                                 </void>
+                                 <void method="put">
+                                  <string>r3</string>
+                                  <double>0.5</double>
+                                 </void>
+                                </void>
+                                <void property="delimCoordinates">
+                                 <string>192_353_143_51</string>
+                                </void>
+                                <void property="edges">
+                                 <void method="put">
+                                  <object idref="MEdge4"/>
+                                  <int>2</int>
+                                 </void>
+                                 <void method="put">
+                                  <object class="info.sarihh.unimodeling.midgraph.MEdge" id="MEdge5">
+                                   <void property="connections">
+                                    <void method="add">
+                                     <object class="info.sarihh.unimodeling.midgraph.MConnection">
+                                      <void property="id">
+                                       <int>5</int>
+                                      </void>
+                                      <void property="name">
+                                       <string>TTS|CH</string>
+                                      </void>
+                                      <void property="plusSide">
+                                       <object idref="MVertex4"/>
+                                      </void>
+                                     </object>
+                                    </void>
+                                   </void>
+                                   <void property="id">
+                                    <int>5</int>
+                                   </void>
+                                   <void property="ogID">
+                                    <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId3">
+                                     <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                                      <string>clusterId</string>
+                                      <void method="set">
+                                       <object idref="ORecordId3"/>
+                                       <int>7</int>
+                                      </void>
+                                     </void>
+                                     <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                                      <string>clusterPosition</string>
+                                      <void method="set">
+                                       <object idref="ORecordId3"/>
+                                       <long>0</long>
+                                      </void>
+                                     </void>
+                                    </object>
+                                   </void>
+                                   <void property="vertices">
+                                    <void method="put">
+                                     <int>1</int>
+                                     <object idref="MVertex4"/>
+                                    </void>
+                                    <void method="put">
+                                     <int>2</int>
+                                     <object class="info.sarihh.unimodeling.midgraph.MVertex" id="MVertex5">
+                                      <void property="delimCoordinates">
+                                       <string>238_84_196_224</string>
+                                      </void>
+                                      <void property="edges">
+                                       <void method="put">
+                                        <object idref="MEdge5"/>
+                                        <int>2</int>
+                                       </void>
+                                      </void>
+                                      <void property="graphCoordinates">
+                                       <string>238_84_196_224</string>
+                                      </void>
+                                      <void property="id">
+                                       <int>6</int>
+                                      </void>
+                                      <void property="name">
+                                       <string>CH</string>
+                                      </void>
+                                      <void property="ogID">
+                                       <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId4">
+                                        <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                                         <string>clusterId</string>
+                                         <void method="set">
+                                          <object idref="ORecordId4"/>
+                                          <int>6</int>
+                                         </void>
+                                        </void>
+                                        <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                                         <string>clusterPosition</string>
+                                         <void method="set">
+                                          <object idref="ORecordId4"/>
+                                          <long>1</long>
+                                         </void>
+                                        </void>
+                                       </object>
+                                      </void>
+                                      <void property="rfidCoordinates">
+                                       <string>238_84_196_224</string>
+                                      </void>
+                                     </object>
+                                    </void>
+                                   </void>
+                                  </object>
+                                  <int>1</int>
+                                 </void>
+                                </void>
+                                <void property="graphCoordinates">
+                                 <string>192_353_143_51</string>
+                                </void>
+                                <void property="id">
+                                 <int>5</int>
+                                </void>
+                                <void property="name">
+                                 <string>TTS</string>
+                                </void>
+                                <void property="ogID">
+                                 <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId5">
+                                  <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                                   <string>clusterId</string>
+                                   <void method="set">
+                                    <object idref="ORecordId5"/>
+                                    <int>6</int>
+                                   </void>
+                                  </void>
+                                  <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                                   <string>clusterPosition</string>
+                                   <void method="set">
+                                    <object idref="ORecordId5"/>
+                                    <long>6</long>
+                                   </void>
+                                  </void>
+                                 </object>
+                                </void>
+                                <void property="rfidCoordinates">
+                                 <string>192_353_143_51</string>
+                                </void>
+                               </object>
+                              </void>
+                             </object>
+                            </void>
+                           </void>
+                           <void property="id">
+                            <int>4</int>
+                           </void>
+                           <void property="ogID">
+                            <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId6">
+                             <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                              <string>clusterId</string>
+                              <void method="set">
+                               <object idref="ORecordId6"/>
+                               <int>7</int>
+                              </void>
+                             </void>
+                             <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                              <string>clusterPosition</string>
+                              <void method="set">
+                               <object idref="ORecordId6"/>
+                               <long>4</long>
+                              </void>
+                             </void>
+                            </object>
+                           </void>
+                           <void property="vertices">
+                            <void method="put">
+                             <int>1</int>
+                             <object idref="MVertex3"/>
+                            </void>
+                            <void method="put">
+                             <int>2</int>
+                             <object idref="MVertex4"/>
+                            </void>
+                           </void>
+                          </object>
+                          <int>1</int>
+                         </void>
+                         <void method="put">
+                          <object idref="MEdge3"/>
+                          <int>2</int>
+                         </void>
+                        </void>
+                        <void property="graphCoordinates">
+                         <string>357_359_142_392</string>
+                        </void>
+                        <void property="id">
+                         <int>4</int>
+                        </void>
+                        <void property="name">
+                         <string>SMC</string>
+                        </void>
+                        <void property="ogID">
+                         <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId7">
+                          <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                           <string>clusterId</string>
+                           <void method="set">
+                            <object idref="ORecordId7"/>
+                            <int>6</int>
+                           </void>
+                          </void>
+                          <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                           <string>clusterPosition</string>
+                           <void method="set">
+                            <object idref="ORecordId7"/>
+                            <long>0</long>
+                           </void>
+                          </void>
+                         </object>
+                        </void>
+                        <void property="rfidCoordinates">
+                         <string>357_359_142_392</string>
+                        </void>
+                       </object>
+                      </void>
+                     </void>
+                    </object>
+                    <int>1</int>
+                   </void>
+                  </void>
+                  <void property="graphCoordinates">
+                   <string>340_146_358_355</string>
+                  </void>
+                  <void property="id">
+                   <int>2</int>
+                  </void>
+                  <void property="name">
+                   <string>MC</string>
+                  </void>
+                  <void property="ogID">
+                   <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId8">
+                    <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                     <string>clusterId</string>
+                     <void method="set">
+                      <object idref="ORecordId8"/>
+                      <int>6</int>
+                     </void>
+                    </void>
+                    <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                     <string>clusterPosition</string>
+                     <void method="set">
+                      <object idref="ORecordId8"/>
+                      <long>4</long>
+                     </void>
+                    </void>
+                   </object>
+                  </void>
+                  <void property="rfidCoordinates">
+                   <string>340_146_358_355</string>
+                  </void>
+                  <void property="rfids">
+                   <void method="put">
+                    <string>r1</string>
+                    <double>1.0</double>
+                   </void>
+                  </void>
+                 </object>
+                </void>
+               </object>
+              </void>
+             </void>
+             <void property="id">
+              <int>1</int>
+             </void>
+             <void property="ogID">
+              <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId9">
+               <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                <string>clusterId</string>
+                <void method="set">
+                 <object idref="ORecordId9"/>
+                 <int>7</int>
+                </void>
+               </void>
+               <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+                <string>clusterPosition</string>
+                <void method="set">
+                 <object idref="ORecordId9"/>
+                 <long>1</long>
+                </void>
+               </void>
+              </object>
+             </void>
+             <void property="vertices">
+              <void method="put">
+               <int>1</int>
+               <object idref="MVertex0"/>
+              </void>
+              <void method="put">
+               <int>2</int>
+               <object idref="MVertex1"/>
+              </void>
+             </void>
+            </object>
+            <int>1</int>
+           </void>
+           <void method="put">
+            <object idref="MEdge0"/>
+            <int>2</int>
+           </void>
+          </void>
+          <void property="graphCoordinates">
+           <string>683_144_360_162</string>
+          </void>
+          <void property="id">
+           <int>1</int>
+          </void>
+          <void property="name">
+           <string>CC</string>
+          </void>
+          <void property="ogID">
+           <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId10">
+            <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+             <string>clusterId</string>
+             <void method="set">
+              <object idref="ORecordId10"/>
+              <int>6</int>
+             </void>
+            </void>
+            <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+             <string>clusterPosition</string>
+             <void method="set">
+              <object idref="ORecordId10"/>
+              <long>5</long>
+             </void>
+            </void>
+           </object>
+          </void>
+          <void property="rfidCoordinates">
+           <string>683_144_360_162</string>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+     </void>
+     <void property="id">
+      <int>0</int>
+     </void>
+     <void property="ogID">
+      <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId11">
+       <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+        <string>clusterId</string>
+        <void method="set">
+         <object idref="ORecordId11"/>
+         <int>7</int>
+        </void>
+       </void>
+       <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+        <string>clusterPosition</string>
+        <void method="set">
+         <object idref="ORecordId11"/>
+         <long>3</long>
+        </void>
+       </void>
+      </object>
+     </void>
+     <void property="vertices">
+      <void method="put">
+       <int>1</int>
+       <object class="info.sarihh.unimodeling.midgraph.MVertex" id="MVertex6">
+        <void property="delimCoordinates">
+         <string>655_168_422_223</string>
+        </void>
+        <void property="edges">
+         <void method="put">
+          <object idref="MEdge0"/>
+          <int>1</int>
+         </void>
+        </void>
+        <void property="graphCoordinates">
+         <string>655_168_422_223</string>
+        </void>
+        <void property="id">
+         <int>0</int>
+        </void>
+        <void property="name">
+         <string>CD</string>
+        </void>
+        <void property="ogID">
+         <object class="com.orientechnologies.orient.core.id.ORecordId" id="ORecordId12">
+          <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+           <string>clusterId</string>
+           <void method="set">
+            <object idref="ORecordId12"/>
+            <int>6</int>
+           </void>
+          </void>
+          <void class="com.orientechnologies.orient.core.id.ORecordId" method="getField">
+           <string>clusterPosition</string>
+           <void method="set">
+            <object idref="ORecordId12"/>
+            <long>3</long>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void property="rfidCoordinates">
+         <string>655_168_422_223</string>
+        </void>
+       </object>
+      </void>
+      <void method="put">
+       <int>2</int>
+       <object idref="MVertex0"/>
+      </void>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object idref="MEdge1"/>
+   </void>
+   <void method="add">
+    <object idref="MEdge2"/>
+   </void>
+   <void method="add">
+    <object idref="MEdge3"/>
+   </void>
+   <void method="add">
+    <object idref="MEdge4"/>
+   </void>
+   <void method="add">
+    <object idref="MEdge5"/>
+   </void>
+  </void>
+  <void property="vertices">
+   <void method="add">
+    <object idref="MVertex6"/>
+   </void>
+   <void method="add">
+    <object idref="MVertex0"/>
+   </void>
+   <void method="add">
+    <object idref="MVertex1"/>
+   </void>
+   <void method="add">
+    <object idref="MVertex2"/>
+   </void>
+   <void method="add">
+    <object idref="MVertex3"/>
+   </void>
+   <void method="add">
+    <object idref="MVertex4"/>
+   </void>
+   <void method="add">
+    <object idref="MVertex5"/>
+   </void>
+  </void>
+ </object>
+</java>

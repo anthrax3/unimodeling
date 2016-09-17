@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawDelimiter" id="DrawDelimiter0">
+    <void property="name">
+     <string>CD</string>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point0">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point0"/>
+        <int>655</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point0"/>
+        <int>168</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point1">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point1"/>
+        <int>422</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point1"/>
+        <int>223</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray0" property="sides"/>
+    <void property="sides">
+     <object idref="intArray0"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawDelimiter" id="DrawDelimiter1">
+    <void property="MID">
+     <int>1</int>
+    </void>
+    <void property="name">
+     <string>CC</string>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point2">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point2"/>
+        <int>683</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point2"/>
+        <int>144</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point3">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point3"/>
+        <int>360</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point3"/>
+        <int>162</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray1" property="sides"/>
+    <void property="sides">
+     <object idref="intArray1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawDelimiter" id="DrawDelimiter2">
+    <void property="MID">
+     <int>2</int>
+    </void>
+    <void property="name">
+     <string>MC</string>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point4">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point4"/>
+        <int>340</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point4"/>
+        <int>146</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point5">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point5"/>
+        <int>358</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point5"/>
+        <int>355</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray2" property="sides"/>
+    <void property="sides">
+     <object idref="intArray2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawDelimiter" id="DrawDelimiter3">
+    <void property="MID">
+     <int>3</int>
+    </void>
+    <void property="name">
+     <string>RB</string>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point6">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point6"/>
+        <int>360</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point6"/>
+        <int>115</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point7">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point7"/>
+        <int>340</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point7"/>
+        <int>140</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray3" property="sides"/>
+    <void property="sides">
+     <object idref="intArray3"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawDelimiter" id="DrawDelimiter4">
+    <void property="MID">
+     <int>4</int>
+    </void>
+    <void property="name">
+     <string>SMC</string>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point8">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point8"/>
+        <int>357</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point8"/>
+        <int>359</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point9">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point9"/>
+        <int>142</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point9"/>
+        <int>392</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray4" property="sides"/>
+    <void property="sides">
+     <object idref="intArray4"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawDelimiter" id="DrawDelimiter5">
+    <void property="MID">
+     <int>5</int>
+    </void>
+    <void property="name">
+     <string>TTS</string>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point10">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point10"/>
+        <int>192</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point10"/>
+        <int>353</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point11">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point11"/>
+        <int>143</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point11"/>
+        <int>51</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray5" property="sides"/>
+    <void property="sides">
+     <object idref="intArray5"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawDelimiter" id="DrawDelimiter6">
+    <void property="MID">
+     <int>6</int>
+    </void>
+    <void property="name">
+     <string>CH</string>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point12">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point12"/>
+        <int>238</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point12"/>
+        <int>84</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point13">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point13"/>
+        <int>196</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point13"/>
+        <int>224</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray6" property="sides"/>
+    <void property="sides">
+     <object idref="intArray6"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawConnection">
+    <void property="ID">
+     <int>1</int>
+    </void>
+    <void property="connectedIDs">
+     <array class="[Ljava.lang.Object;" length="2">
+      <void index="0">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+      <void index="1">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectedMIDs">
+     <array class="[I" length="2">
+      <void index="0">
+       <array class="int" length="2"/>
+      </void>
+      <void index="1">
+       <array class="int" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectionMatrix">
+     <array class="[Ljava.lang.Boolean;" length="2">
+      <void index="0">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>true</boolean>
+        </void>
+       </array>
+      </void>
+      <void index="1">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>false</boolean>
+        </void>
+       </array>
+      </void>
+     </array>
+    </void>
+    <void property="connections">
+     <void method="add">
+      <object idref="DrawDelimiter0"/>
+     </void>
+     <void method="add">
+      <object idref="DrawDelimiter1"/>
+     </void>
+    </void>
+    <void property="name">
+     <string>{CD|CC}</string>
+    </void>
+    <void property="num">
+     <int>1</int>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point14">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point14"/>
+        <int>544</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point14"/>
+        <int>195</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point15">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point15"/>
+        <int>544</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point15"/>
+        <int>149</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray7" property="sides"/>
+    <void property="sides">
+     <object idref="intArray7"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawConnection">
+    <void property="ID">
+     <int>2</int>
+    </void>
+    <void property="MID">
+     <int>1</int>
+    </void>
+    <void property="connectedIDs">
+     <array class="[Ljava.lang.Object;" length="2">
+      <void index="0">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+      <void index="1">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectedMIDs">
+     <array class="[I" length="2">
+      <void index="0">
+       <array class="int" length="2">
+        <void index="1">
+         <int>1</int>
+        </void>
+       </array>
+      </void>
+      <void index="1">
+       <array class="int" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectionMatrix">
+     <array class="[Ljava.lang.Boolean;" length="2">
+      <void index="0">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>true</boolean>
+        </void>
+       </array>
+      </void>
+      <void index="1">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>false</boolean>
+        </void>
+       </array>
+      </void>
+     </array>
+    </void>
+    <void property="connections">
+     <void method="add">
+      <object idref="DrawDelimiter1"/>
+     </void>
+     <void method="add">
+      <object idref="DrawDelimiter2"/>
+     </void>
+    </void>
+    <void property="name">
+     <string>{CC|MC}</string>
+    </void>
+    <void property="num">
+     <int>1</int>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point16">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point16"/>
+        <int>408</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point16"/>
+        <int>153</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point17">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point17"/>
+        <int>348</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point17"/>
+        <int>153</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray8" property="sides"/>
+    <void property="sides">
+     <object idref="intArray8"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawConnection">
+    <void property="ID">
+     <int>3</int>
+    </void>
+    <void property="MID">
+     <int>2</int>
+    </void>
+    <void property="connectedIDs">
+     <array class="[Ljava.lang.Object;" length="2">
+      <void index="0">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+      <void index="1">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectedMIDs">
+     <array class="[I" length="2">
+      <void index="0">
+       <array class="int" length="2"/>
+      </void>
+      <void index="1">
+       <array class="int" length="2">
+        <void index="0">
+         <int>2</int>
+        </void>
+       </array>
+      </void>
+     </array>
+    </void>
+    <void property="connectionMatrix">
+     <array class="[Ljava.lang.Boolean;" length="2">
+      <void index="0">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>false</boolean>
+        </void>
+       </array>
+      </void>
+      <void index="1">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>true</boolean>
+        </void>
+        <void index="1">
+         <boolean>false</boolean>
+        </void>
+       </array>
+      </void>
+     </array>
+    </void>
+    <void property="connections">
+     <void method="add">
+      <object idref="DrawDelimiter2"/>
+     </void>
+     <void method="add">
+      <object idref="DrawDelimiter3"/>
+     </void>
+    </void>
+    <void property="name">
+     <string>{RB|MC}</string>
+    </void>
+    <void property="num">
+     <int>1</int>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point18">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point18"/>
+        <int>350</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point18"/>
+        <int>124</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point19">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point19"/>
+        <int>351</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point19"/>
+        <int>184</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray9" property="sides"/>
+    <void property="sides">
+     <object idref="intArray9"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawConnection">
+    <void property="ID">
+     <int>4</int>
+    </void>
+    <void property="MID">
+     <int>3</int>
+    </void>
+    <void property="connectedIDs">
+     <array class="[Ljava.lang.Object;" length="2">
+      <void index="0">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+      <void index="1">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectedMIDs">
+     <array class="[I" length="2">
+      <void index="0">
+       <array class="int" length="2">
+        <void index="1">
+         <int>3</int>
+        </void>
+       </array>
+      </void>
+      <void index="1">
+       <array class="int" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectionMatrix">
+     <array class="[Ljava.lang.Boolean;" length="2">
+      <void index="0">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>true</boolean>
+        </void>
+       </array>
+      </void>
+      <void index="1">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>false</boolean>
+        </void>
+       </array>
+      </void>
+     </array>
+    </void>
+    <void property="connections">
+     <void method="add">
+      <object idref="DrawDelimiter2"/>
+     </void>
+     <void method="add">
+      <object idref="DrawDelimiter4"/>
+     </void>
+    </void>
+    <void property="name">
+     <string>{MC|SMC}</string>
+    </void>
+    <void property="num">
+     <int>1</int>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point20">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point20"/>
+        <int>350</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point20"/>
+        <int>320</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point21">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point21"/>
+        <int>349</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point21"/>
+        <int>380</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray10" property="sides"/>
+    <void property="sides">
+     <object idref="intArray10"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawConnection" id="DrawConnection0">
+    <void property="ID">
+     <int>5</int>
+    </void>
+    <void property="MID">
+     <int>4</int>
+    </void>
+    <void property="connectedIDs">
+     <array class="[Ljava.lang.Object;" length="2">
+      <void index="0">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+      <void index="1">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectedMIDs">
+     <array class="[I" length="2">
+      <void index="0">
+       <array class="int" length="2">
+        <void index="1">
+         <int>4</int>
+        </void>
+       </array>
+      </void>
+      <void index="1">
+       <array class="int" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectionMatrix">
+     <array class="[Ljava.lang.Boolean;" length="2">
+      <void index="0">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>true</boolean>
+        </void>
+       </array>
+      </void>
+      <void index="1">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>false</boolean>
+        </void>
+       </array>
+      </void>
+     </array>
+    </void>
+    <void property="connections">
+     <void method="add">
+      <object idref="DrawDelimiter4"/>
+     </void>
+     <void method="add">
+      <object idref="DrawDelimiter5"/>
+     </void>
+    </void>
+    <void property="name">
+     <string>{SMC|TTS}</string>
+    </void>
+    <void property="num">
+     <int>1</int>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point22">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point22"/>
+        <int>155</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point22"/>
+        <int>379</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point23">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point23"/>
+        <int>155</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point23"/>
+        <int>290</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="rfids">
+     <void method="add">
+      <object class="info.sarihh.unimodeling.utility.DrawRfid" id="DrawRfid0">
+       <void property="connections">
+        <void method="add">
+         <object idref="DrawConnection0"/>
+        </void>
+        <void method="add">
+         <object idref="DrawConnection0"/>
+        </void>
+       </void>
+       <void property="name">
+        <string>r3</string>
+       </void>
+       <void property="point1">
+        <object class="java.awt.Point" id="Point24">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point24"/>
+           <int>140</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point24"/>
+           <int>322</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="point2">
+        <object class="java.awt.Point" id="Point25">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point25"/>
+           <int>170</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point25"/>
+           <int>352</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="ratio">
+        <double>-0.1875</double>
+       </void>
+       <void id="intArray11" property="sides"/>
+       <void property="sides">
+        <object idref="intArray11"/>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="info.sarihh.unimodeling.utility.DrawRfid" id="DrawRfid1">
+       <void property="connections">
+        <void method="add">
+         <object idref="DrawConnection0"/>
+        </void>
+        <void method="add">
+         <object idref="DrawConnection0"/>
+        </void>
+       </void>
+       <void property="name">
+        <string>r2</string>
+       </void>
+       <void property="point1">
+        <object class="java.awt.Point" id="Point26">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point26"/>
+           <int>141</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point26"/>
+           <int>359</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="point2">
+        <object class="java.awt.Point" id="Point27">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point27"/>
+           <int>171</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point27"/>
+           <int>389</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="ratio">
+        <double>-2.5</double>
+       </void>
+       <void id="intArray12" property="sides"/>
+       <void property="sides">
+        <object idref="intArray12"/>
+       </void>
+      </object>
+     </void>
+    </void>
+    <void id="intArray13" property="sides"/>
+    <void property="sides">
+     <object idref="intArray13"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawConnection">
+    <void property="ID">
+     <int>6</int>
+    </void>
+    <void property="MID">
+     <int>5</int>
+    </void>
+    <void property="connectedIDs">
+     <array class="[Ljava.lang.Object;" length="2">
+      <void index="0">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+      <void index="1">
+       <array class="java.lang.Object" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectedMIDs">
+     <array class="[I" length="2">
+      <void index="0">
+       <array class="int" length="2">
+        <void index="1">
+         <int>5</int>
+        </void>
+       </array>
+      </void>
+      <void index="1">
+       <array class="int" length="2"/>
+      </void>
+     </array>
+    </void>
+    <void property="connectionMatrix">
+     <array class="[Ljava.lang.Boolean;" length="2">
+      <void index="0">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>true</boolean>
+        </void>
+       </array>
+      </void>
+      <void index="1">
+       <array class="java.lang.Boolean" length="2">
+        <void index="0">
+         <boolean>false</boolean>
+        </void>
+        <void index="1">
+         <boolean>false</boolean>
+        </void>
+       </array>
+      </void>
+     </array>
+    </void>
+    <void property="connections">
+     <void method="add">
+      <object idref="DrawDelimiter5"/>
+     </void>
+     <void method="add">
+      <object idref="DrawDelimiter6"/>
+     </void>
+    </void>
+    <void property="name">
+     <string>{TTS|CH}</string>
+    </void>
+    <void property="num">
+     <int>1</int>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point28">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point28"/>
+        <int>164</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point28"/>
+        <int>119</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point29">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point29"/>
+        <int>225</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point29"/>
+        <int>119</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray14" property="sides"/>
+    <void property="sides">
+     <object idref="intArray14"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="info.sarihh.unimodeling.utility.DrawRfid">
+    <void property="connections">
+     <void method="add">
+      <object idref="DrawDelimiter2"/>
+     </void>
+    </void>
+    <void property="name">
+     <string>r1</string>
+    </void>
+    <void property="point1">
+     <object class="java.awt.Point" id="Point30">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point30"/>
+        <int>333</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point30"/>
+        <int>245</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="point2">
+     <object class="java.awt.Point" id="Point31">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point31"/>
+        <int>363</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point31"/>
+        <int>275</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void id="intArray15" property="sides"/>
+    <void property="sides">
+     <object idref="intArray15"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="DrawRfid1"/>
+  </void>
+  <void method="add">
+   <object idref="DrawRfid0"/>
+  </void>
+ </object>
+</java>
